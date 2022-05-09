@@ -1,0 +1,25 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/motty93/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/motty93/TypeScript/issues"
+  },
+  "homepage": "https://github.com/motty93/TypeScript#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "typescript": "^4.6.4"
+  }
+}
